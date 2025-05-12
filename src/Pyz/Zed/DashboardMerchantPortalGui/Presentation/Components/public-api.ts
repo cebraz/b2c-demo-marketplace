@@ -1,0 +1,1 @@
+export * from 'vendor/spryker/dashboard-merchant-portal-gui/src/Spryker/Zed/DashboardMerchantPortalGui/Presentation/Components/app/dashboard-stats/dashboard-stats-block/dashboard-stats-block.component'
